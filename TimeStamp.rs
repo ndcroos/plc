@@ -1,0 +1,4 @@
+struct TimeStamp {
+    timeStamp : ;
+    timeDelta : ;
+}
