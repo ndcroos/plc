@@ -1,7 +1,5 @@
 pub struct PLC {
-    
-    asyncReg : AsyncRegister;
-    exitHndlr: ExitHandler;
+    exitCb: ExitCallback;
     eventLoop : ;
     cfg : Config;
 }
