@@ -1,10 +1,10 @@
-pub struct PLC {
+pub struct Main {
     exitCb: ExitCallback;
     eventLoop : ;
     cfg : Config;
 }
 
-impl PLC {
+impl Main {
     
 }
 
