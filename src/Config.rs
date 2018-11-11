@@ -1,4 +1,4 @@
-publ struct Config {
+pub struct Config {
 
 
 }
