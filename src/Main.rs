@@ -1,5 +1,5 @@
 pub struct Main {
-    exitCb: ExitCallback;
+    exitTsk: ExitTask;
     eventLoop : ;
     cfg : Config;
 }
