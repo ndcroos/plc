@@ -1,4 +1,4 @@
-pub struc ExitTask {
+pub struct ExitTask {
 
 
 }
